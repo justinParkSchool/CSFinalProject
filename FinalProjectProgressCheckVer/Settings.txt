@@ -1,0 +1,5 @@
+--Settings--
+[Number of Labels, Starting Speed, Minus Health Amount]
+5
+50
+10
